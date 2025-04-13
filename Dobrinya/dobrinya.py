@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 from sklearn.preprocessing import StandardScaler
 import tensorflow as tf
-from tensorflow.keras import layers, models
+from tensorflow.keras import layers, model
 import data
 
 
